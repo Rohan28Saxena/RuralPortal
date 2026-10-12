@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+
+@theme {
+  /* Font Family */
+  --font-sans: 'Inter', sans-serif;
+
+  /* Custom Brand Colors */
+  --color-brand-dark: #1e3a2b;
+  --color-brand-emerald: #15803d;
+  --color-brand-terracotta: #c2410c;
+  --color-brand-cream: #fdfbf7;
+  --color-brand-clay: #7c2d12;
+}
